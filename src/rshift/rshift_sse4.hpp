@@ -1,5 +1,5 @@
 /*
-*	Optimized bit-packing and bit-unpacking functions - Copyright (c) 2021 Bertrand LE GAL
+ *	Optimized SSE4 bit-shifting functions - Copyright (c) 2021 Bertrand LE GAL
  *
  *  This software is provided 'as-is', without any express or
  *  implied warranty. In no event will the authors be held
